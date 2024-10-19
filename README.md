@@ -6,4 +6,4 @@ To enhance user experience, the system offers a Human Assistance feature. If the
 
 Additionally, the chatbot interface is designed to be user-friendly, focusing on intuitive interaction for both tech-savvy and non-technical users. The integration of RAG ensures the chatbot pulls the latest, most relevant information from connected datasets, making it ideal for tasks requiring fast, real-time insights. The Faiss vector database enables high-speed similarity search, improving the quality of the responses by ranking relevant content accurately. This chatbot is perfect for businesses, research teams, and knowledge management platforms seeking an efficient, AI-powered solution for automated queries with a robust human fallback system. <br>
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://drive.google.com/file/d/1-LZ7UELYQtmnRF8u3AIUTL6r6ys_HkST/view?usp=sharing)]
